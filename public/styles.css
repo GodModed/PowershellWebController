@@ -18,6 +18,7 @@ body {
 }
 
 #input {
+    display: inline;
     color: yellow;
     caret-color: white;
     width: 100%;
